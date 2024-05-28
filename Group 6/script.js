@@ -1,0 +1,1 @@
+alert("This file contains inline and block elements.")
